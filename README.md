@@ -1,8 +1,8 @@
 # Political Vector Projector
 
-Given word vectors trained by word2vec (Mikolov et al. 2013) or fastText (Bojanowski et al. 2016), project the vectors of U.S. senators onto a 'conservative' to 'liberal' axis. The scalar components of such projections may be interpreted as a valid metric of political ideology.
+Given word vectors trained by `word2vec` (Mikolov et al. 2013) or `fastText` (Bojanowski et al. 2016), this program projects the vectors of U.S. senators onto a "conservative" to "liberal" axis. The scalar components of such projections may be interpreted as a valid metric of political ideology.
 
-Learn more about this project at [here](https://empirical.coffee/blog/2017/political-vector-projector).
+Learn more about this project at [here](https://empirical.coffee/blog/2017/political-vector-projector). See this [iPython Notebook](http://nbviewer.jupyter.org/github/albertwebson/PoliVec_Projector/blob/master/PoliVec_Projector.ipynb) for complete experiment results.
 
 ## Highlight
 
